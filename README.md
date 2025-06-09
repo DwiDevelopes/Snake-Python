@@ -1,6 +1,6 @@
 # Games Playing Minicraft Snakes
 
-<img src = "snake playing.gif" width = "100%" height ="100%">
+<img src = "snake playing.mp4.gif" width = "100%" height ="100%">
 
 # Complete Installation Guide for Python in Termux
 
