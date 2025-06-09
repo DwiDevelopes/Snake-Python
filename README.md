@@ -4,7 +4,9 @@
 
 # Complete Installation Guide for Python in Termux
 
+<center><div class = "center">
 <img src = "snake.png" width = "300" height = "300">
+</div></center>
 
 ## Initial Setup
 
